@@ -31,7 +31,7 @@ module.exports = {
       meta: {
         viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
       },
-      title : "React Tailwind",
+      title : "Portfolio",
       filename: 'index.html',
       template : "assets/index.html"
     }), new MockPlugin({ msg : 'MockPlugin' })],
